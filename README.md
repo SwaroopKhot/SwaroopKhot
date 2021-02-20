@@ -1,5 +1,7 @@
 ### Hi there 👋
-[<img align="center" alt="" src="https://freepngimg.com/thumb/welcome/26792-3-welcome-transparent-picture.png" />]
+<div style="text-align:center; align-item:center;">
+  <img align="center" alt="" src="https://freepngimg.com/thumb/welcome/26792-3-welcome-transparent-picture.png" />
+</div>
 
 
 <!--
