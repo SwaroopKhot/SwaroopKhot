@@ -1,9 +1,9 @@
-### Hi there 👋
+
 <div style="align-items:center;">
   <img align="center" alt="" src="https://freepngimg.com/thumb/welcome/26792-3-welcome-transparent-picture.png" />
 </div>
 
-
+### Hi there 👋
 <!--
 **SwaroopKhot/SwaroopKhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
